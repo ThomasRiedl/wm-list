@@ -1,0 +1,1039 @@
+{
+  "flags": [
+    {
+      "country": "argentinien",
+      "link": "https://www.nationalflaggen.de/media/67/conversion/flagge-argentinien-rechteckig-30.png"
+    },
+    {
+      "country": "australien",
+      "link": "https://www.nationalflaggen.de/media/79/conversion/flagge-australien-rechteckig-30.png"
+    },
+    {
+      "country": "belgien",
+      "link": "https://www.nationalflaggen.de/media/96/conversion/flagge-belgien-rechteckig-30.png"
+    },
+    {
+      "country": "brasilien",
+      "link": "https://www.nationalflaggen.de/media/118/conversion/flagge-brasilien-rechteckig-30.png"
+    },
+    {
+      "country": "costa-rica",
+      "link": "https://www.nationalflaggen.de/media/139/conversion/flagge-costa-rica-rechteckig-30.png"
+    },
+    {
+      "country": "dänemark",
+      "link": "https://www.nationalflaggen.de/media/143/conversion/flagge-danemark-rechteckig-30.png"
+    },
+    {
+      "country": "deutschland",
+      "link": "https://www.nationalflaggen.de/media/5/conversion/flagge-deutschland-rechteckig-30.png"
+    },
+    {
+      "country": "equador",
+      "link": "https://www.nationalflaggen.de/media/155/conversion/flagge-ecuador-rechteckig-30.png"
+    },
+    {
+      "country": "england",
+      "link": "https://www.nationalflaggen.de/media/767/conversion/flagge-england-rechteckig-30.gif"
+    },
+    {
+      "country": "frankreich",
+      "link": "https://www.nationalflaggen.de/media/26/conversion/flagge-frankreich-rechteckig-30.png"
+    },
+    {
+      "country": "ghana",
+      "link": "https://www.nationalflaggen.de/media/185/conversion/flagge-ghana-rechteckig-30.png"
+    },
+    {
+      "country": "iran",
+      "link": "https://www.nationalflaggen.de/media/218/conversion/flagge-iran-rechteckig-30.png"
+    },
+    {
+      "country": "japan",
+      "link": "https://www.nationalflaggen.de/media/234/conversion/flagge-japan-rechteckig-30.png"
+    },
+    {
+      "country": "kamerun",
+      "link": "https://www.nationalflaggen.de/media/247/conversion/flagge-kamerun-rechteckig-30.png"
+    },
+    {
+      "country": "kanada",
+      "link": "https://www.nationalflaggen.de/media/250/conversion/flagge-kanada-rechteckig-30.png"
+    },
+    {
+      "country": "katar",
+      "link": "https://www.nationalflaggen.de/media/256/conversion/flagge-katar-rechteckig-30.png"
+    },
+    {
+      "country": "kroatien",
+      "link": "https://www.nationalflaggen.de/media/289/conversion/flagge-kroatien-rechteckig-30.png"
+    },
+    {
+      "country": "marokko",
+      "link": "https://www.nationalflaggen.de/media/343/conversion/flagge-marokko-rechteckig-30.png"
+    },
+    {
+      "country": "mexiko",
+      "link": "https://www.nationalflaggen.de/media/355/conversion/flagge-mexiko-rechteckig-30.png"
+    },
+    {
+      "country": "niederlande",
+      "link": "https://www.nationalflaggen.de/media/388/conversion/flagge-niederlande-rechteckig-30.png"
+    },
+    {
+      "country": "polen",
+      "link": "https://www.nationalflaggen.de/media/435/conversion/flagge-polen-rechteckig-30.png"
+    },
+    {
+      "country": "portugal",
+      "link": "https://www.nationalflaggen.de/media/438/conversion/flagge-portugal-rechteckig-30.png"
+    },
+    {
+      "country": "saudi-arabien",
+      "link": "https://www.nationalflaggen.de/media/474/conversion/flagge-saudi-arabien-rechteckig-30.png"
+    },
+    {
+      "country": "schweiz",
+      "link": "https://www.nationalflaggen.de/media/480/conversion/flagge-schweiz-rechteckig-30.png"
+    },
+    {
+      "country": "senegal",
+      "link": "https://www.nationalflaggen.de/media/483/conversion/flagge-senegal-rechteckig-30.png"
+    },
+    {
+      "country": "serbien",
+      "link": "https://www.nationalflaggen.de/media/486/conversion/flagge-serbien-rechteckig-30.png"
+    },
+    {
+      "country": "spanien",
+      "link": "https://www.nationalflaggen.de/media/36/conversion/flagge-spanien-rechteckig-30.png"
+    },
+    {
+      "country": "südkorea",
+      "link": "https://www.nationalflaggen.de/media/283/conversion/flagge-sudkorea-rechteckig-30.png"
+    },
+    {
+      "country": "tunesien",
+      "link": "https://www.nationalflaggen.de/media/878/conversion/flagge-tunesien-rechteckig-30.png"
+    },
+    {
+      "country": "uruguay",
+      "link": "https://www.nationalflaggen.de/media/901/conversion/flagge-uruguay-rechteckig-30.png"
+    },
+    {
+      "country": "usa",
+      "link": "https://www.nationalflaggen.de/media/919/conversion/flagge-vereinigte-staaten-von-amerika-usa-rechteckig-30.png"
+    },
+    {
+      "country": "wales",
+      "link": "https://www.nationalflaggen.de/media/768/conversion/flagge-wales-rechteckig-30.gif"
+    }
+  ],
+  "groups": [
+    {
+      "group": "A",
+      "members": [
+        {
+          "date": "20.11.2022",
+          "time": "17:00",
+          "teams": [
+            {
+              "team1": "Katar"
+            },
+            {
+              "team2": "Ecuador"
+            },
+            {
+              "goals_team1": 0
+            },
+            {
+              "goals_team2": 0
+            }
+          ]
+        },
+        {
+          "date": "21.11.2022",
+          "time": "17:00",
+          "teams": [
+            {
+              "team1": "Senegal"
+            },
+            {
+              "team2": "Niederlande"
+            },
+            {
+              "goals_team1": 0
+            },
+            {
+              "goals_team2": 0
+            }
+          ]
+        },
+        {
+          "date": "25.11.2022",
+          "time": "14:00",
+          "teams": [
+            {
+              "team1": "Katar"
+            },
+            {
+              "team2": "Senegal"
+            },
+            {
+              "goals_team1": 0
+            },
+            {
+              "goals_team2": 0
+            }
+          ]
+        },
+        {
+          "date": "25.11.2022",
+          "time": "17:00",
+          "teams": [
+            {
+              "team1": "Niederlande"
+            },
+            {
+              "team2": "Ecuador"
+            },
+            {
+              "goals_team1": 0
+            },
+            {
+              "goals_team2": 0
+            }
+          ]
+        },
+        {
+          "date": "29.11.2022",
+          "time": "16:00",
+          "teams": [
+            {
+              "team1": "Niederlande"
+            },
+            {
+              "team2": "Katar"
+            },
+            {
+              "goals_team1": 0
+            },
+            {
+              "goals_team2": 0
+            }
+          ]
+        },
+        {
+          "date": "29.11.2022",
+          "time": "16:00",
+          "teams": [
+            {
+              "team1": "Euador"
+            },
+            {
+              "team2": "Senegal"
+            },
+            {
+              "goals_team1": 0
+            },
+            {
+              "goals_team2": 0
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "group": "B",
+      "members": [
+        {
+          "date": "21.11.2022",
+          "time": "14:00",
+          "teams": [
+            {
+              "team1": "England"
+            },
+            {
+              "team2": "Iran"
+            },
+            {
+              "goals_team1": 0
+            },
+            {
+              "goals_team2": 0
+            }
+          ]
+        },
+        {
+          "date": "21.11.2022",
+          "time": "20:00",
+          "teams": [
+            {
+              "team1": "USA"
+            },
+            {
+              "team2": "Wales"
+            },
+            {
+              "goals_team1": 0
+            },
+            {
+              "goals_team2": 0
+            }
+          ]
+        },
+        {
+          "date": "25.11.2022",
+          "time": "11:00",
+          "teams": [
+            {
+              "team1": "Wales"
+            },
+            {
+              "team2": "Ira"
+            },
+            {
+              "goals_team1": 0
+            },
+            {
+              "goals_team2": 0
+            }
+          ]
+        },
+        {
+          "date": "25.11.2022",
+          "time": "20:00",
+          "teams": [
+            {
+              "team1": "England"
+            },
+            {
+              "team2": "USA"
+            },
+            {
+              "goals_team1": 0
+            },
+            {
+              "goals_team2": 0
+            }
+          ]
+        },
+        {
+          "date": "29.11.2022",
+          "time": "20:00",
+          "teams": [
+            {
+              "team1": "Wales"
+            },
+            {
+              "team2": "England"
+            },
+            {
+              "goals_team1": 0
+            },
+            {
+              "goals_team2": 0
+            }
+          ]
+        },
+        {
+          "date": "29.11.2022",
+          "time": "20:00",
+          "teams": [
+            {
+              "team1": "Iran"
+            },
+            {
+              "team2": "USA"
+            },
+            {
+              "goals_team1": 0
+            },
+            {
+              "goals_team2": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group": "C",
+      "members": [
+        {
+          "date": "22.11.2022",
+          "time": "11:00",
+          "teams": [
+            {
+              "team1": "Argentinien"
+            },
+            {
+              "team2": "Saudi-Arabien"
+            },
+            {
+              "goals_team1": 0
+            },
+            {
+              "goals_team2": 0
+            }
+          ]
+        },
+        {
+          "date": "22.11.2022",
+          "time": "17:00",
+          "teams": [
+            {
+              "team1": "Mexiko"
+            },
+            {
+              "team2": "Polen"
+            },
+            {
+              "goals_team1": 0
+            },
+            {
+              "goals_team2": 0
+            }
+          ]
+        },
+        {
+          "date": "26.11.2022",
+          "time": "14:00",
+          "teams": [
+            {
+              "team1": "Polen"
+            },
+            {
+              "team2": "Saudi-Arabien"
+            },
+            {
+              "goals_team1": 0
+            },
+            {
+              "goals_team2": 0
+            }
+          ]
+        },
+        {
+          "date": "26.11.2022",
+          "time": "20:00",
+          "teams": [
+            {
+              "team1": "Argentinien"
+            },
+            {
+              "team2": "Mexiko"
+            },
+            {
+              "goals_team1": 0
+            },
+            {
+              "goals_team2": 0
+            }
+          ]
+        },
+        {
+          "date": "30.11.2022",
+          "time": "20:00",
+          "teams": [
+            {
+              "team1": "Polen"
+            },
+            {
+              "team2": "Argentinien"
+            },
+            {
+              "goals_team1": 0
+            },
+            {
+              "goals_team2": 0
+            }
+          ]
+        },
+        {
+          "date": "30.11.2022",
+          "time": "20:00",
+          "teams": [
+            {
+              "team1": "Saudi-Arabien"
+            },
+            {
+              "team2": "Mexiko"
+            },
+            {
+              "goals_team1": 0
+            },
+            {
+              "goals_team2": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group": "D",
+      "members": [
+        {
+          "date": "22.11.2022",
+          "time": "14:00",
+          "teams": [
+            {
+              "team1": "Dänemark"
+            },
+            {
+              "team2": "Tunesien"
+            },
+            {
+              "goals_team1": 0
+            },
+            {
+              "goals_team2": 0
+            }
+          ]
+        },
+        {
+          "date": "22.11.2022",
+          "time": "14:00",
+          "teams": [
+            {
+              "team1": "Dänemark"
+            },
+            {
+              "team2": "Tunesien"
+            },
+            {
+              "goals_team1": 0
+            },
+            {
+              "goals_team2": 0
+            }
+          ]
+        },
+        {
+          "date": "22.11.2022",
+          "time": "20:00",
+          "teams": [
+            {
+              "team1": "Frankreich"
+            },
+            {
+              "team2": "Australien"
+            },
+            {
+              "goals_team1": 0
+            },
+            {
+              "goals_team2": 0
+            }
+          ]
+        },
+        {
+          "date": "26.11.2022",
+          "time": "11:00",
+          "teams": [
+            {
+              "team1": "Tunesien"
+            },
+            {
+              "team2": "Dänemark"
+            },
+            {
+              "goals_team1": 0
+            },
+            {
+              "goals_team2": 0
+            }
+          ]
+        },
+        {
+          "date": "30.11.2022",
+          "time": "16:00",
+          "teams": [
+            {
+              "team1": "Tunesien"
+            },
+            {
+              "team2": "Frankreich"
+            },
+            {
+              "goals_team1": 0
+            },
+            {
+              "goals_team2": 0
+            }
+          ]
+        },
+        {
+          "date": "30.11.2022",
+          "time": "16:00",
+          "teams": [
+            {
+              "team1": "Australien"
+            },
+            {
+              "team2": "Dänemark"
+            },
+            {
+              "goals_team1": 0
+            },
+            {
+              "goals_team2": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group": "E",
+      "members": [
+        {
+          "date": "23.11.2022",
+          "time": "14:00",
+          "teams": [
+            {
+              "team1": "Deutschland"
+            },
+            {
+              "team2": "Japan"
+            },
+            {
+              "goals_team1": 0
+            },
+            {
+              "goals_team2": 0
+            }
+          ]
+        },
+        {
+          "date": "23.11.2022",
+          "time": "17:00",
+          "teams": [
+            {
+              "team1": "Spanien"
+            },
+            {
+              "team2": "Costa-Rica"
+            },
+            {
+              "goals_team1": 0
+            },
+            {
+              "goals_team2": 0
+            }
+          ]
+        },
+        {
+          "date": "27.11.2022",
+          "time": "11:00",
+          "teams": [
+            {
+              "team1": "Japan"
+            },
+            {
+              "team2": "Costa-Rica"
+            },
+            {
+              "goals_team1": 0
+            },
+            {
+              "goals_team2": 0
+            }
+          ]
+        },
+        {
+          "date": "27.11.2022",
+          "time": "20:00",
+          "teams": [
+            {
+              "team1": "Spanien"
+            },
+            {
+              "team2": "Deutschland"
+            },
+            {
+              "goals_team1": 0
+            },
+            {
+              "goals_team2": 0
+            }
+          ]
+        },
+        {
+          "date": "01.12.2022",
+          "time": "20:00",
+          "teams": [
+            {
+              "team1": "Japan"
+            },
+            {
+              "team2": "Spanien"
+            },
+            {
+              "goals_team1": 0
+            },
+            {
+              "goals_team2": 0
+            }
+          ]
+        },
+        {
+          "date": "01.12.2022",
+          "time": "20:00",
+          "teams": [
+            {
+              "team1": "Costa-Rica"
+            },
+            {
+              "team2": "Deutschland"
+            },
+            {
+              "goals_team1": 0
+            },
+            {
+              "goals_team2": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group": "F",
+      "members": [
+        {
+          "date": "23.11.2022",
+          "time": "11:00",
+          "teams": [
+            {
+              "team1": "Marokko"
+            },
+            {
+              "team2": "Kroatien"
+            },
+            {
+              "goals_team1": 0
+            },
+            {
+              "goals_team2": 0
+            }
+          ]
+        },
+        {
+          "date": "23.11.2022",
+          "time": "20:00",
+          "teams": [
+            {
+              "team1": "Belgien"
+            },
+            {
+              "team2": "Kanada"
+            },
+            {
+              "goals_team1": 0
+            },
+            {
+              "goals_team2": 0
+            }
+          ]
+        },
+        {
+          "date": "27.11.2022",
+          "time": "14:00",
+          "teams": [
+            {
+              "team1": "Belgien"
+            },
+            {
+              "team2": "Marokko"
+            },
+            {
+              "goals_team1": 0
+            },
+            {
+              "goals_team2": 0
+            }
+          ]
+        },
+        {
+          "date": "27.11.2022",
+          "time": "17:00",
+          "teams": [
+            {
+              "team1": "Kroatien"
+            },
+            {
+              "team2": "Kanada"
+            },
+            {
+              "goals_team1": 0
+            },
+            {
+              "goals_team2": 0
+            }
+          ]
+        },
+        {
+          "date": "01.12.2022",
+          "time": "16:00",
+          "teams": [
+            {
+              "team1": "Kroaten"
+            },
+            {
+              "team2": "Belgien"
+            },
+            {
+              "goals_team1": 0
+            },
+            {
+              "goals_team2": 0
+            }
+          ]
+        },
+        {
+          "date": "01.12.2022",
+          "time": "16:00",
+          "teams": [
+            {
+              "team1": "Kanada"
+            },
+            {
+              "team2": "Marokko"
+            },
+            {
+              "goals_team1": 0
+            },
+            {
+              "goals_team2": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group": "G",
+      "members": [
+        {
+          "date": "24.11.2022",
+          "time": "11:00",
+          "teams": [
+            {
+              "team1": "Schweiz"
+            },
+            {
+              "team2": "Kamerun"
+            },
+            {
+              "goals_team1": 0
+            },
+            {
+              "goals_team2": 0
+            }
+          ]
+        },
+        {
+          "date": "24.11.2022",
+          "time": "20:00",
+          "teams": [
+            {
+              "team1": "Brasilien"
+            },
+            {
+              "team2": "Serbien"
+            },
+            {
+              "goals_team1": 0
+            },
+            {
+              "goals_team2": 0
+            }
+          ]
+        },
+        {
+          "date": "28.11.2022",
+          "time": "11:00",
+          "teams": [
+            {
+              "team1": "Kamerun"
+            },
+            {
+              "team2": "Serbien"
+            },
+            {
+              "goals_team1": 0
+            },
+            {
+              "goals_team2": 0
+            }
+          ]
+        },
+        {
+          "date": "28.11.2022",
+          "time": "17:00",
+          "teams": [
+            {
+              "team1": "Brasilien"
+            },
+            {
+              "team2": "Schweiz"
+            },
+            {
+              "goals_team1": 0
+            },
+            {
+              "goals_team2": 0
+            }
+          ]
+        },
+        {
+          "date": "02.12.2022",
+          "time": "20:00",
+          "teams": [
+            {
+              "team1": "Kamerun"
+            },
+            {
+              "team2": "Brasilien"
+            },
+            {
+              "goals_team1": 0
+            },
+            {
+              "goals_team2": 0
+            }
+          ]
+        },
+        {
+          "date": "02.12.2022",
+          "time": "20:00",
+          "teams": [
+            {
+              "team1": "Serbien"
+            },
+            {
+              "team2": "Schweiz"
+            },
+            {
+              "goals_team1": 0
+            },
+            {
+              "goals_team2": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group": "H",
+      "members": [
+        {
+          "date": "24.11.2022",
+          "time": "14:00",
+          "teams": [
+            {
+              "team1": "Uruguay"
+            },
+            {
+              "team2": "Südkorea"
+            },
+            {
+              "goals_team1": 0
+            },
+            {
+              "goals_team2": 0
+            }
+          ]
+        },
+        {
+          "date": "24.11.2022",
+          "time": "17:00",
+          "teams": [
+            {
+              "team1": "Portugal"
+            },
+            {
+              "team2": "Ghana"
+            },
+            {
+              "goals_team1": 0
+            },
+            {
+              "goals_team2": 0
+            }
+          ]
+        },
+        {
+          "date": "28.11.2022",
+          "time": "14:00",
+          "teams": [
+            {
+              "team1": "Südkorea"
+            },
+            {
+              "team2": "Ghana"
+            },
+            {
+              "goals_team1": 0
+            },
+            {
+              "goals_team2": 0
+            }
+          ]
+        },
+        {
+          "date": "28.11.2022",
+          "time": "20:00",
+          "teams": [
+            {
+              "team1": "Portugal"
+            },
+            {
+              "team2": "Uruguay"
+            },
+            {
+              "goals_team1": 0
+            },
+            {
+              "goals_team2": 0
+            }
+          ]
+        },
+        {
+          "date": "02.12.2022",
+          "time": "16:00",
+          "teams": [
+            {
+              "team1": "Südkorea"
+            },
+            {
+              "team2": "Portugal"
+            },
+            {
+              "goals_team1": 0
+            },
+            {
+              "goals_team2": 0
+            }
+          ]
+        },
+        {
+          "date": "02.12.2022",
+          "time": "16:00",
+          "teams": [
+            {
+              "team1": "Ghana"
+            },
+            {
+              "team2": "Uruguay"
+            },
+            {
+              "goals_team1": 0
+            },
+            {
+              "goals_team2": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
